@@ -1,4 +1,4 @@
-{ "name": "Antibioticoterapia · Protocolli aziendali", "short_name": "Antibiotici", "lang": "it",
+{ "name": "AMS PoliMe · Antibioticoterapia", "short_name": "AMS PoliMe", "lang": "it",
   "start_url": "./", "scope": "./", "display": "standalone", "orientation": "portrait",
   "background_color": "#f8fafc", "theme_color": "#1e40af",
   "icons": [ { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
