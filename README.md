@@ -1,3 +1,3 @@
-# Polmoniti · Protocollo terapia antibiotica
+# Antibioticoterapia · Polmoniti e IVU
 
-PWA offline basata sul protocollo aziendale sulle polmoniti (CAP/HAP/VAP). Strumento di consultazione: non sostituisce il giudizio clinico.
+PWA offline basata sui protocolli aziendali di terapia antibiotica delle polmoniti (CAP/HAP/VAP) e delle infezioni delle vie urinarie. Strumento di consultazione: non sostituisce il giudizio clinico.
